@@ -104,13 +104,11 @@
 <td align="center" width="50%">
 <b>Programming</b><br>
 <img height="60px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"><br>
-C++
 </td>
 
 <td align="center" width="50%">
 <b>Firewall</b><br>
-<img height="55px" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/PfSense_logo.svg/512px-PfSense_logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/PfSense_logo.svg/512px-PfSense_logo.svg.png)"><br>
-pfSense
+<img height="55px" src="https://github.com/TobiTuTerror/TobiTuTerror/blob/32642c8085f56e64d47a95d8fb2d1717e020a2c5/pfsense.png"><br>
 </td>
 
 </tr>
