@@ -3,6 +3,23 @@
 
 <hr>
 
+
+<p style="color:#00ff00; font-family: 'Courier New', monospace;">
+Hola, soy <b>Alex</b> 👋, estudiante de <b>Ingeniería de Ciberseguridad</b> y apasionado por el mundo de la tecnología.<br><br>
+
+Actualmente me encuentro en una etapa de <b>aprendizaje constante</b>, con muchas ganas de seguir creciendo, explorar nuevas herramientas y comprender cómo funciona la seguridad tanto a nivel de software como de hardware.<br><br>
+
+Me encanta todo lo relacionado con <b>redes, programación, sistemas y hardware</b>, y disfruto enfrentar retos que me permitan mejorar cada día.<br><br>
+
+Mis habilidades están reflejadas en las tecnologías que ves en mis tablas, las cuales sigo fortaleciendo con práctica y proyectos reales.
+
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
+</p>
+
+
 ## My Skills :computer:
 
 - **Programming Languages**
