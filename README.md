@@ -143,8 +143,8 @@ Mis habilidades están reflejadas en las tecnologías que ves en mis tablas, las
 
 <p>
 <a href="https://github.com/TobiTuTerror"><img src="https://img.shields.io/badge/-TobiTuTerror-black?logo=github&style=flat-square"/></a>
-<a href="www.linkedin.com/in/alexandro-alanya-montoya-27ba56307"> <img src="https://img.shields.io/badge/LinkedIn-Alexandro%20Alanya-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/tobigol.exe/"/><img src="https://img.shields.io/badge/-tobigol.exe-purple?logo=instagram&style=flat-square"/></a>
+<a href="https://www.linkedin.com/in/alexandro-alanya-montoya-27ba56307/"> <img src="https://img.shields.io/badge/LinkedIn-Alexandro%20Alanya-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/alexandroam_/"/><img src="https://img.shields.io/badge/-tobigol.exe-purple?logo=instagram&style=flat-square"/></a>
 <a href="alexandropriv2005@gmail.com"><img src="https://img.shields.io/badge/-alexandropriv2005@gmail.com-black?logo=gmail&style=flat-square"/></a>
 <a href="https://x.com/tobicode2005"><img src="https://img.shields.io/badge/@tobicode2005-black?logo=x&logoColor=white&style=flat-square"/></a>
 </p>
