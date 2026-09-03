@@ -1,8 +1,7 @@
-   ###   HOLA MUNDOOO SOY ALEX! :yellow_heart:
+### &nbsp;&nbsp;HOLA MUNDOOO SOY ALEX! :yellow_heart:
 <img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = 200/>
 
 <hr>
-
 
 <p style="color:#00ff00; font-family: 'Courier New', monospace;">
 Hola, soy <b>Alex</b> 👋, estudiante de <b>Ingeniería de Ciberseguridad</b> y apasionado por el mundo de la tecnología.<br><br>
@@ -19,7 +18,6 @@ Mis habilidades están reflejadas en las tecnologías que ves en mis tablas, las
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
 </p>
 
-
 ## My Skills :computer:
 
 - **Programming Languages**
@@ -27,49 +25,37 @@ Mis habilidades están reflejadas en las tecnologías que ves en mis tablas, las
 <tbody>
  <tr>
 <td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
 </td>
-
 </tr>
-
 </tbody>
 </table>
-
-
 
 - **Web Development**
 <table>
 <tbody>
  <tr>
 <td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
 </td>
-
 <td align="center" width="33%">
-<img height=70px src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png"> 
+<img height=70px src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png">
 </td>
-
 <td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg">
 </td>
-
 </tr>
-
  <tr>
 <td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
 </td>
-
 <td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg">
 </td>
-
 <td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
 </td>
-
 </tr>
-
 </tbody>
 </table>
 
@@ -83,30 +69,26 @@ Mis habilidades están reflejadas en las tecnologías que ves en mis tablas, las
 <tbody>
  <tr>
 <td align="center" width="25%">
-<img height=60px src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg">
 </td>
-
 <td align="center" width="25%">
-<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"> 
+<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg">
 </td>
-
 <td align="center" width="25%">
-<img height=80px src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"> 
+<img height=80px src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg">
 </td>
-
+</tr>
 </tbody>
 </table>
 
-
-- **Web Development**
+- **Backend**
 <table>
 <tbody>
-
 <tr>
 <td align="center" width="50%">
-<img height="60px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
+<img height="60px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
 </td>
-
+</tr>
 </tbody>
 </table>
 
@@ -117,23 +99,25 @@ Mis habilidades están reflejadas en las tecnologías que ves en mis tablas, las
 <table>
 <tbody>
 <tr>
-
 <td align="center" width="50%">
 <b>Programming</b><br>
 <img height="60px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"><br>
 </td>
-
 <td align="center" width="50%">
 <b>Firewall</b><br>
-<img height="55px" src="https://github.com/TobiTuTerror/TobiTuTerror/blob/32642c8085f56e64d47a95d8fb2d1717e020a2c5/pfsense.png"><br>
+<img height="55px" src="pfsense.png"><br>
 </td>
-
 </tr>
 </tbody>
 </table>
 
+<hr>
 
+## GitHub Stats :bar_chart:
 
+<p align="center">
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=alexstacks-lab&theme=chartreuse-dark&hide_border=true" />
+</p>
 
 ## Muchas Gracias por tu visita , Hasta Pronto. 🐭
 
@@ -142,9 +126,9 @@ Mis habilidades están reflejadas en las tecnologías que ves en mis tablas, las
 ## Mis redes sociales 🌐
 
 <p>
-<a href="https://github.com/AlexPloit"><img src="https://img.shields.io/badge/-TobiTuTerror-black?logo=github&style=flat-square"/></a>
+<a href="https://github.com/alexstacks-lab"><img src="https://img.shields.io/badge/-alexstacks--lab-black?logo=github&style=flat-square"/></a>
 <a href="https://www.linkedin.com/in/alexandro-alanya-montoya-27ba56307/"> <img src="https://img.shields.io/badge/LinkedIn-Alexandro%20Alanya-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/alexandroam_/"/><img src="https://img.shields.io/badge/-alexandroam_-purple?logo=instagram&style=flat-square"/></a>
-<a href="alexandropriv2005@gmail.com"><img src="https://img.shields.io/badge/-alexandropriv2005@gmail.com-black?logo=gmail&style=flat-square"/></a>
+<a href="https://www.instagram.com/alexandroam_/"><img src="https://img.shields.io/badge/-alexandroam_-purple?logo=instagram&style=flat-square"/></a>
+<a href="mailto:alexandropriv2005@gmail.com"><img src="https://img.shields.io/badge/-alexandropriv2005@gmail.com-black?logo=gmail&style=flat-square"/></a>
 <a href="https://x.com/tobicode2005"><img src="https://img.shields.io/badge/@tobicode2005-black?logo=x&logoColor=white&style=flat-square"/></a>
 </p>
